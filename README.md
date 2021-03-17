@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **design system**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **MEAN stack**
 
 - 🤝 I’m looking for help with **code review**
 
