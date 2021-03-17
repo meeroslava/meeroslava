@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **meer.dr@gmail.com**
 
-- ⚡ Fun fact **I play Overwatch**
+- ⚡ Fun fact - **I play Overwatch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
